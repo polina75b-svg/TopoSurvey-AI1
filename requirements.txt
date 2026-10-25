@@ -1,0 +1,8 @@
+streamlit
+streamlit-image-coordinates
+PyMuPDF
+opencv-python-headless
+pytesseract
+Pillow
+numpy
+pandas
