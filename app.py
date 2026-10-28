@@ -87,7 +87,7 @@ if uploaded_file is not None:
         f"Размер изображения: "
         f"{image.width} × {image.height} пикселей"
     )
-
+st.image image, caption="Исходный чертёж", use_container_width=True
     # ----------------------------------------
     # 2. Распознавание чисел
     # ----------------------------------------
